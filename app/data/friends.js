@@ -1,0 +1,52 @@
+var friends = [
+  {
+    name:"Victoria",
+    photo:"../public/images/lion.jpg",
+    score:[
+       "4",
+       "3",
+       "1",
+       "3",
+       "5",
+       "3",
+       "5",
+       "2",
+       "2",
+       "4"
+    ]
+  },
+  {
+    name:"Megan",
+    photo:"../public/images/panda.jpg",
+    score:[
+       "4",
+       "1",
+       "1",
+       "1",
+       "5",
+       "3",
+       "1",
+       "2",
+       "2",
+       "4"
+    ]
+  },
+  {
+    name:"Mark",
+    photo:"../public/images/walrus.jpg",
+    score:[
+       "4",
+       "3",
+       "4",
+       "3",
+       "5",
+       "3",
+       "5",
+       "4",
+       "4",
+       "4"
+    ]
+  }
+];
+module.exports = friends;
+
